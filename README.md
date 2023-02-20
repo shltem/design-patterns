@@ -4,4 +4,3 @@ This repository contains implementations of the following design patterns:<br><b
 Composite<br>
 Factory<br>
 Observer<br>
-Waitable Priority Queue<br>
